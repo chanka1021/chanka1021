@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chanka1021
+- 👋 Hi, I’m Achraf @chanka1021
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me 📧achraf.chouach@gmail.com
