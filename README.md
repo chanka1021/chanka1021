@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Achraf @chanka1021
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning Tauri
 - 📫 How to reach me 📧achraf.chouach@gmail.com
 - ⚡ AchraFolio : https://achrafchouache.me
 
