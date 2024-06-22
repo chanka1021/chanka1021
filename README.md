@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🦀 I’m currently learning Tauri
 - 📫 How to reach me 📧achraf.chouach@gmail.com
-- ⚡ AchraFolio : https://achrafchouache.xyz
+- ⚡ AchraFolio : https://achrafchouach.xyz
 
 <!---
 chanka1021/chanka1021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
